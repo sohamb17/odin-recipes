@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: lightseagreen;
+    text-align: center;
+}
+
+a {
+    background-color: burlywood;
+    color: black;
+    font-size: 24px;
+}
+
+h2 {
+    color: coral;
+}
+
+h3 {
+    color: violet;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.kulfi li {
+    color: crimson;
+}
+
+.samosa li {
+    color: teal;
+}
+
+.besan-laddu li {
+    color: dodgerblue;
+}
